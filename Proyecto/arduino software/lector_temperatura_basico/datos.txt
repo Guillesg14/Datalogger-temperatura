@@ -1,0 +1,8 @@
+
+
+	coseguimos tomar tempoeraturas sin orden ni formato
+
+	primera prueba del sensor
+
+	conexion del sensor: rojo a 5 voltios negro a gnd y el amarillo conectado por pullup a
+			    una resistencia de 4.7k alimentada por 5 voltios
